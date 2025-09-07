@@ -1,0 +1,8 @@
+flask
+gunicorn
+pandas
+prophet
+scikit-learn
+pypdf
+requests
+python-dotenv
